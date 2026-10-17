@@ -1,0 +1,8 @@
+# Cache
+__pycache__/
+
+# Virtual environments
+.venv/
+
+# Logs
+*.log

@@ -1,0 +1,7 @@
+{
+  "server_host": "localhost",
+  "port": 9993,
+  "server_id": "cyse250-client",
+  "interval": 5,
+  "services": ["ssh"]
+}

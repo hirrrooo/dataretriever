@@ -1,0 +1,8 @@
+{
+  "listen_host": "0.0.0.0",
+  "port": 9993,
+  "client_file": "registered_clients.txt",
+  "offline_timeout": 30,
+  "cpu_warning": 90,
+  "memory_warning": 90
+}
